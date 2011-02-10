@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns="http://docbook.org/ns/docbook"
+      version="5.0"
+      xml:id="acmfsgref"
+      xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <!-- You may also enjoy these name spaces -->
+
+  <!-- If you wish to make links elsewhere, use the XLink ns:
+       xmlns:xl="http://www.w3.org/1999/xlink"
+  -->
+
+  <!-- Begin Meta Info Section -->
+
+  <info>
+    <title>ACM FSG Reference</title>
+
+    <!--    
+    <subtitle></subtitle>
+    -->
+
+    <!--
+    <date></date>
+    -->
+    
+    <authorgroup>
+      <author>
+	<personname>
+	  <firstname>Andrew</firstname>
+	  <othername></othername>
+	  <surname>Butcher</surname>
+	</personname>
+	<email>abutcher@afrolegs.com</email>
+	<contrib></contrib>
+      </author>
+      <author>
+	<personname>
+	  <firstname>Ricky</firstname>
+	  <othername></othername>
+	  <surname>Hussmann</surname>
+	</personname>
+	<email>ricky.hussmann@gmail.com</email>
+	<contrib></contrib>
+      </author>
+    </authorgroup>
+
+    <!--
+    <revhistory>
+      <revision>
+	<revnumber></revnumber>
+	<date></date>
+	<authorinitials></authorinitials>
+	<revremark></revremark>
+      </revision>
+    </revhistory>
+    -->
+
+    <!--
+    <legalnotice>
+      <para>
+	
+      </para>
+    </legalnotice>
+    -->
+
+    <!--
+    <copyright>
+      <year></year>
+      <holder></holder>
+    </copyright>
+    -->
+
+    <!--
+    <abstract>
+      <title>Introduction</title>
+      
+      <para>
+	
+      </para>
+      
+    </abstract>
+    -->
+  </info>
+
+  <!-- Begin Book Contents -->
+
+  <xi:include href="introduction.xml"/>
+  <xi:include href="officers.xml"/>
+  <!-- <xi:include href="events.xml"/> -->
+  
+  <!-- <index /> -->
+</book>
