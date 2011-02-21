@@ -42,6 +42,15 @@
 	<email>ricky.hussmann@gmail.com</email>
 	<contrib></contrib>
       </author>
+      <author>
+	<personname>
+	  <firstname>Tim</firstname>
+	  <othername>'Shaggy'</othername>
+	  <surname>Bielawa</surname>
+	</personname>
+	<email>timbielawa@gmail.com</email>
+	<contrib></contrib>
+      </author>
     </authorgroup>
 
     <!--
@@ -86,7 +95,7 @@
 
   <xi:include href="introduction.xml"/>
   <xi:include href="officers.xml"/>
-  <!-- <xi:include href="events.xml"/> -->
+  <xi:include href="events.xml"/>
   
   <!-- <index /> -->
 </book>

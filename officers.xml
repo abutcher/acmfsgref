@@ -1,4 +1,6 @@
-<chapter>
+<chapter xmlns="http://docbook.org/ns/docbook"
+	 version="5.0"
+	 xml:id="officer-duties-and-roles">
   <title>Office Duties and Roles</title>
 
   <section>
