@@ -6,42 +6,76 @@
   <section>
     <title>Chair</title>
     <para>
-      List duties here.
+      An ACM/FSG Chair position can be very rewarding but often
+      requires the most work.  In the event that another officer is
+      busy, needs you to pick up one of their duties, or even forgets
+      then it is your responsibilistitemty to pick up their slack.
+
+      Following is a shortened listitemst of duties that the Chair is
+      responsible for:
+      <itemizedlist>
+	<listitem>First and foremost, making sure everyone else is
+	doing their job.</listitem>
+	<listitem>Query potential speakers.</listitem>
+	<listitem>Set meeting dates/time.</listitem>
+	<listitem>Create and post meeting fliers.</listitem>
+	<listitem>Email the appropriate lists with meeting
+	announcements.</listitem>
+	<listitem>Leading meetings and introducing
+	speakers.</listitem>
+      </itemizedlist>
     </para>
   </section>
 
   <section>
     <title>Vice Chair</title>
     <para>
-      List duties here.
+      In the event that the Chair cannot take care of certain tasks,
+      be ready to pick them up!  This could be anything from running a
+      meeting to posting the flyers.
+    </para>
+    <para>
+      You will also assist the Chair by running meetings or
+      introducing speakers.
     </para>
   </section>
 
   <section>
     <title>Secretary</title>
+    The Treasurer is responsible for the following tasks:
     <para>
-      List duties here.
+      <itemizedlist>
+	<listitem>At every meeting, collect a list of attendess.  Give
+	a copy to the Treasurer so they they can give it, along with
+	the pizza receipt, to the appropriate staff member.</listitem>
+      </itemizedlist>
     </para>
   </section>
 
   <section>
     <title>Treasurer</title>
     <para>
-      List duties here.
+      The Treasurer is responsible for the following tasks:
+      <itemizedlist>
+	<listitem>Reporting the club's funds at the beginning of every
+	meeting.</listitem>
+	<listitem>Ordering pizza for the meetings.</listitem>
+	<listitem>Making sure that there will be plates, cups, and
+	napkins at the meeting.</listitem>
+	<listitem>Signing and keeping receipts to give to the
+	appropriate staff member.</listitem>
+      </itemizedlist>
     </para>
   </section>
 
   <section>
     <title>Webmaster</title>
     <para>
-      List duties here.
+      <itemizedlist>
+	<listitem>Post events on the acm website http://wvu.acm.org</listitem>
+	<listitem>Speak to the chair to gain access to the sites administration.</listitem>
+      </itemizedlist>
     </para>
   </section>
 
-  <section>
-    <title>Historian</title>
-    <para>
-      List duties here.
-    </para>
-  </section>
 </chapter>
