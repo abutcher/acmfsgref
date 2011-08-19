@@ -10,14 +10,51 @@
 
   <section>
     <title>Finding Speakers</title>
+
+    <para>Finding speakers is extremely easy if you know where to
+    look. The easiest place to go for speakers is definitely the
+    staff.  There are a lot of professors and researchers doing
+    interesting things that wouldn't mind sharing their work.
+    Graduate students will also jump at the chance to present their
+    work in preparation for their thesis defence.</para>
+
+    <para>Here's a simple email you could send to mailing lists:</para>
+    
+    <quote>Greetings,
+
+    ACM is looking for speakers for the current Spring, and upcoming Fall,
+    semester.  Any technical topic is acceptable -- even research, senior
+    design project presentations, or an interesting topic/project you'd
+    like to share with the club.  Please forward your suggestions to me
+    regarding topics or potential speakers.
+    
+    We look forward to seeing you at the meetings.</quote>
+
+    <para>If no one speaks up then it's time to go the club and see if
+    any members would be willing to speak.</para>
+    
+    <para>Lastly, remember that no fish is too big.  We've gotten big
+    deal speakers just by sending them a direct email.  Like Corey
+    Haines and Richard Stallman.</para>
+
   </section>
 
   <section>
     <title>Coordinating With Speakers</title>
+    
   </section>
 
   <section>
     <title>Event Checklist</title>
+    
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Event room is booked with the University.</para>
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Flyers have been posted.</para>
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Pizza has been ordered.</para>    
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; A post about the event has been posted on wvu.acm.org</para>
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; All mailing lists have been notified about the event.</para>
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; In the case of a larger event, press has been notified.</para>
+    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Speaker will have access to a computer/laptop/projector in the event room.</para>
+    
   </section>
 
 </chapter>
