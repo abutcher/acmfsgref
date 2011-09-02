@@ -113,3 +113,4 @@ locator:
 clean:
 	$(FIND)  \( -regex "^[.]?(.+)\~$$" -o -regex "./[.]?#.*#" \) -delete
 	rm -fR output/*
+	rm -fR out_single/*
