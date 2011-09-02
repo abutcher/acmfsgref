@@ -2,9 +2,61 @@
 	 version="5.0"
 	 xml:id="flyers">
   <title>Past Flyers</title>
-  
+
   <para>
-    Put some images of old flyers here.
+    Here are a collection of sample flyers which we have used to
+    advertise speakers for a variety of events. Each flyer contains a
+    short bit of text describing the event and all of the relevant
+    information needed to attend. Make sure to include links to
+    website post and/or QR codes so that students can just use their
+    phone to bookmark the event quickly.
   </para>
+  
+  <?hard-pagebreak?>
+
+  <mediaobject>
+    <imageobject>
+      <imagedata fileref="images/flyers/StallmanFlyer.png"/>
+    </imageobject>
+    <caption>
+      <para>
+	Richard Stallman Flyer February, 2010.
+      </para>
+    </caption>
+  </mediaobject>
+
+  <mediaobject>
+    <imageobject>
+      <imagedata fileref="images/flyers/BarlowFlyer.png"/>
+    </imageobject>
+    <caption>
+      <para>
+	John Perry Barlow Flyer February, 2011.
+      </para>
+    </caption>
+  </mediaobject>
+
+  <mediaobject>
+    <imageobject>
+      <imagedata fileref="images/flyers/HainesFlyer.png"/>
+    </imageobject>
+    <caption>
+      <para>
+	Corey Haines Flyer February, 2011.
+      </para>
+    </caption>
+  </mediaobject>
+
+  <mediaobject>
+    <imageobject>
+      <imagedata fileref="images/flyers/CodeFlyer.png"/>
+    </imageobject>
+    <caption>
+      <para>
+	Code Retreat Flyer February, 2011.
+      </para>
+    </caption>
+  </mediaobject>
+
 
 </chapter>
