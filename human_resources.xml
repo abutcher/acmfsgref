@@ -1,0 +1,10 @@
+<chapter xmlns="http://docbook.org/ns/docbook"
+	 version="5.0"
+	 xml:id="human-resources">
+  <title>Human Resources</title>
+
+  <para>
+    List here everyone that the club may need to contact.
+  </para>
+
+</chapter>

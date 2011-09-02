@@ -96,6 +96,9 @@
   <xi:include href="introduction.xml"/>
   <xi:include href="officers.xml"/>
   <xi:include href="events.xml"/>
+  <xi:include href="yearly.xml"/>
+  <xi:include href="human_resources.xml"/>
+  <xi:include href="flyers.xml"/>
   
   <!-- <index /> -->
 </book>
