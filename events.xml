@@ -20,16 +20,20 @@
 
     <para>Here's a simple email you could send to mailing lists:</para>
     
-    <quote>Greetings,
+    <example>
+      <title>Example Email to Mailing List</title>
+      <para>
+      Greetings,
 
-    ACM is looking for speakers for the current Spring, and upcoming Fall,
-    semester.  Any technical topic is acceptable -- even research, senior
-    design project presentations, or an interesting topic/project you'd
-    like to share with the club.  Please forward your suggestions to me
-    regarding topics or potential speakers.
-    
-    We look forward to seeing you at the meetings.</quote>
-
+      ACM is looking for speakers for the current Spring, and upcoming Fall,
+      semester.  Any technical topic is acceptable -- even research, senior
+      design project presentations, or an interesting topic/project you'd
+      like to share with the club.  Please forward your suggestions to me
+      regarding topics or potential speakers.
+      
+      We look forward to seeing you at the meetings.
+      </para>
+    </example>
     <para>If no one speaks up then it's time to go the club and see if
     any members would be willing to speak.</para>
     
@@ -60,15 +64,29 @@
 
   <section>
     <title>Event Checklist</title>
-    
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Event room is booked with the University.</para>
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Flyers have been posted.</para>
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Pizza has been ordered.</para>    
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; A post about the event has been posted on wvu.acm.org</para>
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; All mailing lists have been notified about the event.</para>
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; In the case of a larger event, press has been notified.</para>
-    <para><imagedata fileref="images/empty_checkbox.png"/>&#9; Speaker will have access to a computer/laptop/projector in the event room.</para>
-    
+    <itemizedlist>
+      <listitem>
+    <para>&#9; Event room is booked with the University.</para>
+      </listitem>
+      <listitem>
+    <para>&#9; Flyers have been posted.</para>
+      </listitem>
+      <listitem>
+	<para>&#9; Pizza has been ordered.</para>    
+      </listitem>
+      <listitem>
+	<para>&#9; A post about the event has been posted on wvu.acm.org</para>
+      </listitem>
+      <listitem>
+	<para>&#9; All mailing lists have been notified about the event.</para>
+      </listitem>
+      <listitem>
+	<para>&#9; In the case of a larger event, press has been notified.</para>
+      </listitem>
+      <listitem>
+	<para>&#9; Speaker will have access to a computer/laptop/projector in the event room.</para>
+      </listitem>
+    </itemizedlist>
   </section>
 
 </chapter>
