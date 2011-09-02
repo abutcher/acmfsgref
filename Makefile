@@ -11,8 +11,8 @@
 ##################################################################
 INPUT = index
 OUTPUT = index
-DEST = .
-CHUNKDIR = html
+DEST = out_single
+CHUNKDIR = out_chunked
 OUTFILE = $(DEST)/$(OUTPUT)
 
 ##################################################################
@@ -95,11 +95,14 @@ docdir:
 
 chunked:
 	xsltproc $(XSLTPARAMS) $(XSLT_CHUNKED_PARAMS) $(HTML_CHUNKED_xsl) $(INPUT).xml
+	cp -r images/ $(DEST)
 
 html:
 	xsltproc $(XSLTPARAMS) $(XSLT_HTML_PARAMS) $(HTML_xsl) $(INPUT).xml
+	cp -r images/ $(CHUNKDIR)
 
 pdf:
+	mkdir -p $(DEST)
 	dblatex $(DBLATEX_PARAMS) $(INPUT).xml
 
 docs: docdir html pdf chunked
