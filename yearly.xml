@@ -3,9 +3,34 @@
 	 xml:id="yearly-responsibilities">
   <title>Yearly Responsibilites</title>
 
-  <para>
-    List everything that happens in a years time that the club needs
-    to manage.
-  </para>
-
+  <section>
+    <title>Fall Semester</title>
+  <itemizedlist>
+    <listitem>
+      <para>
+	<emphasis role="bold">Freshman EngineerFEST</emphasis>, occurs around the
+	second week of classes. The point of this event is to spark
+	interest in joining ACM to incoming freshman. The chair of the
+	club will most likely receive an email about booking a table
+	for Freshman EngineerFEST. If they don't, then be sure to ask
+	around Freshman Engineering. Be sure to bring a sign up sheet
+	so that new students can jot down their emails. It's also a
+	good idea to bring an info sheet so that students can read a
+	little bit more about the clubs and check out our site. Make a
+	big poster if you have time.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	<emphasis role="bold">First Meeting</emphasis>, the first meeting is
+	listed because it sets the tone for the rest of the semester.
+	More people are going to come to this meeting than any other
+	meeting. This meeting should occur soon following Freshman
+	EngineerFEST.  Follow meeting protocol and everything will be
+	great.  Be sure to re-iterate what the club is about and have
+	a banging speaker for this meeting.
+      </para>
+    </listitem>
+  </itemizedlist>
+  </section>
 </chapter>
