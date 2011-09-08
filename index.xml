@@ -93,6 +93,7 @@
 
   <!-- Begin Book Contents -->
 
+  <xi:include href="preface.xml"/>
   <xi:include href="introduction.xml"/>
   <xi:include href="officers.xml"/>
   <xi:include href="events.xml"/>

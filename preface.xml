@@ -1,0 +1,54 @@
+<preface xmlns="http://docbook.org/ns/docbook"
+        version="5.0"
+        xmlns:xl="http://www.w3.org/1999/xlink"
+        xml:id="preface">
+
+  <title>Preface</title>
+
+  <para>
+    If you're reading this then you are now an officer (or should be)
+    in the WVU ACM or FSG.
+  </para>
+
+  <para>
+    Fill this spot with an epic introduction that explains just how
+    fucking awesome these two clubs are and what they were able to do
+    in just two years.
+  </para>
+
+  <para>
+    TODO:
+  </para>
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	Describe FSG
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Why it needed to exist
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Why it was important that ACM &amp; FSG officially join forces
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Why they need to remain officially separate and distinct groups
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Add photo of FSG founding officers
+      </para>
+    </listitem>
+  </itemizedlist>
+</preface>
