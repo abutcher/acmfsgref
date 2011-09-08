@@ -1,5 +1,6 @@
 <chapter xmlns="http://docbook.org/ns/docbook"
 	 version="5.0"
+	 xmlns:xl="http://www.w3.org/1999/xlink"
 	 xml:id="Events">
   
   <title>Holding Events</title>
@@ -13,33 +14,40 @@
 
     <para>Finding speakers is extremely easy if you know where to
     look. The easiest place to go for speakers is definitely the
-    staff.  There are a lot of professors and researchers doing
+    staff. There are a lot of professors and researchers doing
     interesting things that wouldn't mind sharing their work.
     Graduate students will also jump at the chance to present their
     work in preparation for their thesis defence.</para>
 
     <para>Here's a simple email you could send to mailing lists:</para>
     
-    <example>
+    <example xml:id="example-email-to-mailing-list">
       <title>Example Email to Mailing List</title>
-      <para>
-      Greetings,
+      <para>Greetings,</para>
 
-      ACM is looking for speakers for the current Spring, and upcoming Fall,
-      semester.  Any technical topic is acceptable -- even research, senior
-      design project presentations, or an interesting topic/project you'd
-      like to share with the club.  Please forward your suggestions to me
-      regarding topics or potential speakers.
-      
-      We look forward to seeing you at the meetings.
+      <para>
+	ACM is looking for speakers for the current Spring, and
+	upcoming Fall, semester. Any technical topic is acceptable --
+	even research, senior design project presentations, or an
+	interesting topic/project you'd like to share with the club.
+	Please forward your suggestions to me regarding topics or
+	potential speakers.
+      </para>
+
+      <para>
+	We look forward to seeing you at the meetings.
       </para>
     </example>
-    <para>If no one speaks up then it's time to go the club and see if
-    any members would be willing to speak.</para>
+
+    <para>
+      If no one speaks up then it's time to go to the club and see if
+      any members would be willing to speak.
+    </para>
     
-    <para>Lastly, remember that no fish is too big.  We've gotten big
-    deal speakers just by sending them a direct email.  Like Corey
-    Haines and Richard Stallman.</para>
+    <para>Lastly, remember that no fish is too big. We've gotten big
+    deal speakers just by sending them a direct email. Like Corey
+    Haines and <link xl:href="http://csee.wvu.edu/rms/">Richard
+    Stallman</link>.</para>
 
   </section>
 
@@ -47,13 +55,13 @@
     <title>Coordinating With Speakers</title>
 
     <para> You can't communicate too much with a speaker, especially
-    if they're travelling from out of town to come see us. Make sure
+    if they're traveling from out of town to come see us. Make sure
     they have all of the information they need.
     </para>
 
     <para>If the speaker is flying in, make sure that all of their
     expenses are handled with WVU (speak to the chair first to make
-    the deparartment will pay of course). Ensure the speaker has a
+    the department will pay of course). Ensure the speaker has a
     ride around town and arrives at the event with some time to
     spare.</para>
 

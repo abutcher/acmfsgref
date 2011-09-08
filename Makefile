@@ -44,7 +44,10 @@ HTML_CHUNKED_xsl = $(STYLEDIR)/html/chunk.xsl
 # DBLATEX_PARAMS - Options specific to dblatex PDF output
 ##################################################################
 XSLTPARAMS = --xinclude \
-	--stringparam section.autolabel 1
+	--stringparam section.autolabel 1 \
+	--stringparam html.stylesheet \
+	"style.css" \
+	--stringparam para.propagates.style 1
 
 XSLT_HTML_PARAMS = -o $(OUTFILE).html
 
@@ -106,6 +109,8 @@ pdf:
 	dblatex $(DBLATEX_PARAMS) $(INPUT).xml
 
 docs: docdir html pdf chunked
+	cp style.css $(DEST)
+	cp style.css $(CHUNKDIR)
 
 locator:
 	sed "s'%SCHEMADIR%'$(SCHEMADIR)'" .schemas.xml > schemas.xml

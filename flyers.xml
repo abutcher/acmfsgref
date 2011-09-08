@@ -1,5 +1,6 @@
 <chapter xmlns="http://docbook.org/ns/docbook"
 	 version="5.0"
+	 xmlns:xl="http://www.w3.org/1999/xlink"
 	 xml:id="flyers">
   <title>Past Flyers</title>
 
@@ -8,8 +9,12 @@
     advertise speakers for a variety of events. Each flyer contains a
     short bit of text describing the event and all of the relevant
     information needed to attend. Make sure to include links to
-    website post and/or QR codes so that students can just use their
-    phone to bookmark the event quickly.
+    website post and/or QR codes <footnote><para><link
+    xl:href="http://en.wikipedia.org/wiki/QR_code">Read about QR Codes
+    on Wikipedia</link></para></footnote> <footnote><para><link
+    xl:href="http://qrcode.kaywa.com/">QR Code
+    Generator</link></para></footnote> so that students can just use
+    their phone to bookmark the event quickly.
   </para>
   
   <?hard-pagebreak?>
@@ -20,7 +25,8 @@
     </imageobject>
     <caption>
       <para>
-	Richard Stallman Flyer February, 2010.
+	Richard Stallman Flyer February, 2010. (<link
+	xl:href="http://csee.wvu.edu/rms/">Event website</link>)
       </para>
     </caption>
   </mediaobject>
