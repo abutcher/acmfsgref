@@ -1,15 +1,47 @@
 <chapter xmlns="http://docbook.org/ns/docbook"
-	 version="5.0"
-	 xml:id="introduction">
+         version="5.0"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xml:id="introduction">
   <title>Introduction</title>
 
-  <para>
-    This guide contains information pertaining to managing WVU ACM and
-    FSG student organizations. Everything you need to do as part of
-    your job as a club officer should be documented here.  If you come
-    across something that is not documented, then document it.  If you
-    come across a piece of information that is incorrect in this
-    document, then correct it!
-  </para>
-  
+  <section xml:id="intro-contents">
+    <title>Contents</title>
+    <para>
+      This guide contains information pertaining to managing WVU ACM and
+      FSG student organizations. Everything you need to do as part of
+      your job as a club officer should be documented here.  If you come
+      across something that is not documented, then document it.  If you
+      come across a piece of information that is incorrect in this
+      document, then correct it!
+    </para>
+  </section>
+
+  <section xml:id="intro-docbook">
+    <title>DocBook</title>
+
+    <para>
+      This guide is rendered into HTML and PDF formats from a
+      collection of well-formatted XML documents. The XML source
+      complies to the DocBook V5.1 (or newer) schema.
+    </para>
+
+    <para>
+      Eric S. Raymond writes about DocBook (and the reasons you should
+      use it) in his book, <link
+      xl:href="http://catb.org/~esr/writings/taoup/html/ch18s05.html">The
+      Art of Unix Programming</link>. In summary: DocBook lets you
+      spend less time fiddling with what your document looks like
+      (bold, indented, numbered or bulleted lists?), and spend more
+      time on what your book says. When writing DocBook you describe
+      the contents of your document. Then, when you're finished, a
+      toolset transforms the XML sources and produces uniformly styled
+      HTML and PDF documents. The presentation-level work is all done
+      for you.
+    </para>
+
+    <para>
+      To learn more about DocBook visit its website: <link
+      xl:href="http://docbook.org/tdg51/en/html/">docbook.org</link>.
+    </para>
+  </section>
 </chapter>
