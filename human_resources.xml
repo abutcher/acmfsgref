@@ -1,6 +1,6 @@
 <chapter xmlns="http://docbook.org/ns/docbook"
-	 version="5.0"
-	 xml:id="human-resources">
+         version="5.0"
+         xml:id="human-resources">
   <title>Human Resources</title>
 
   <section>
@@ -10,40 +10,61 @@
 
     <section>
       <title>
-	Chris Randall &lt;chris.randall@mail.wvu.edu&gt;
+        Chris Randall &lt;chris.randall@mail.wvu.edu&gt;
       </title>
       <para>
-	Chris orders pizza for our club meetings. Know the
-	room, time, and estimated number of attendees before
-	contacting Chris. Be sure to grab plates/cups from him
-	before he leaves on meeting day.
+        Chris orders pizza for our club meetings. Know the
+        room, time, and estimated number of attendees before
+        contacting Chris. Be sure to grab plates/cups from him
+        before he leaves on meeting day.
       </para>
     </section>
 
     <section>
       <title>
-	Dr. Brian Woerner &lt;brian.woerner@mail.wvu.edu&gt;
+        Dr. Brian Woerner &lt;brian.woerner@mail.wvu.edu&gt;
       </title>
       <para>
-	Dr. Woerner is the department chair. If there is ever a
-	time we need money for an event and our speaker's topic
-	would benefit the rest of the department, then it is
-	time to ask Dr. Woerner if the department can cover
-	travel expenses for our speaker. We are notorious for
-	having no money so this happens a lot for big speakers.
+        Dr. Woerner is the department chair. If there is ever a
+        time we need money for an event and our speaker's topic
+        would benefit the rest of the department, then it is
+        time to ask Dr. Woerner if the department can cover
+        travel expenses for our speaker. We are notorious for
+        having no money so this happens a lot for big speakers.
       </para>
     </section>
 
     <section>
       <title>
-	Karen Grimm &lt;karen.grimm@mail.wvu.edu&gt;
+        Karen Grimm &lt;karen.grimm@mail.wvu.edu&gt;
       </title>
       <para>
-	Karen handles finances for the club when Dr. Woerner has
-	agreed to finance us. A travelling speaker needs to give
-	Karen an invoice for their travel and she will handle
-	the rest.
+        Karen handles finances for the club when Dr. Woerner has
+        agreed to finance us. A travelling speaker needs to give
+        Karen an invoice for their travel and she will handle
+        the rest.
       </para>
+    </section>
+  </section>
+
+  <section xml:id="human-resources-Television-Production-Services">
+    <title>Television Production Services</title>
+
+    <section xml:id="Chris-Southard">
+      <title>Chris Southard &lt;christopher.southard@mail.wvu.edu&gt;</title>
+      <para>
+        Chris Southard recorded the audio and video for the Richard
+        Stallman lecture. He also was able to do live webcasts. Contact
+        him with plenty of lead time if you want to have an event
+        recorded.
+      </para>
+
+      <note>
+        <para>
+          His servies are not free. You will need to procure the
+          necessary funding if you want an event recorded.
+        </para>
+      </note>
     </section>
   </section>
 </chapter>
