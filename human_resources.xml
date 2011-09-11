@@ -3,8 +3,47 @@
 	 xml:id="human-resources">
   <title>Human Resources</title>
 
-  <para>
-    List here everyone that the club may need to contact.
-  </para>
+  <section>
+    <title>
+      LCSEE Department Human Resources
+    </title>
 
+    <section>
+      <title>
+	Chris Randall &lt;chris.randall@mail.wvu.edu&gt;
+      </title>
+      <para>
+	Chris orders pizza for our club meetings. Know the
+	room, time, and estimated number of attendees before
+	contacting Chris. Be sure to grab plates/cups from him
+	before he leaves on meeting day.
+      </para>
+    </section>
+
+    <section>
+      <title>
+	Dr. Brian Woerner &lt;brian.woerner@mail.wvu.edu&gt;
+      </title>
+      <para>
+	Dr. Woerner is the department chair. If there is ever a
+	time we need money for an event and our speaker's topic
+	would benefit the rest of the department, then it is
+	time to ask Dr. Woerner if the department can cover
+	travel expenses for our speaker. We are notorious for
+	having no money so this happens a lot for big speakers.
+      </para>
+    </section>
+
+    <section>
+      <title>
+	Karen Grimm &lt;karan.grimm@mail.wvu.edu&gt;
+      </title>
+      <para>
+	Karen handles finances for the club when Dr. Woerner has
+	agreed to finance us. A travelling speaker needs to give
+	Karen an invoice for their travel and she will handle
+	the rest.
+      </para>
+    </section>
+  </section>
 </chapter>
