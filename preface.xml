@@ -31,40 +31,57 @@
     their point of view or introduce them to ideas that change their
     lives.
   </para>
-
-  <para>
-    TODO:
-  </para>
-
-  <itemizedlist>
-    <listitem>
+  <section>
+    <title>The Free Software Group</title>
+    <para>
+      The Free Software Group (FSG) was founded in 2008 as an
+      organization separate to the ACM. That year we realized that we
+      could accomplish so much more if we worked together as sister
+      organizations. An article was featured in the Daily Athenaeum to
+      cover FSG's founding.
+      <footnote>
       <para>
-	Describe FSG
+	http://www.thedaonline.com/newest-student-org-connects-to-campus-1.700949
       </para>
-    </listitem>
-
-    <listitem>
+      </footnote>
+    </para>
+    <para>
+      Seeing as the ACM is a national organization based mainly on
+      research in the field of Computer Science and Engineering, a club
+      needed to exist to promote Free Software on campus and host events
+      centered on Free Software.
+    </para>    
+    
+    <example xml:id="fsg-manifesto">
+      <title>The WVU Free Software Group Manifesto</title>
       <para>
-	Why it needed to exist
+	Raise Awareness, distribute, and encourage the 
+	adoption and installation of free software to the 
+	Student Body, Morgantown Community, and in 
+	Campus Computing Facilities.
       </para>
-    </listitem>
-
-    <listitem>
-      <para>
-	Why it was important that ACM &amp; FSG officially join forces
-      </para>
-    </listitem>
-
-    <listitem>
-      <para>
-	Why they need to remain officially separate and distinct groups
-      </para>
-    </listitem>
-
-    <listitem>
-      <para>
-	Add photo of FSG founding officers
-      </para>
-    </listitem>
-  </itemizedlist>
+    </example>
+    
+    <para>
+      ACM &amp; FSG have different goals as organizations. While ACM
+      &amp; FSG work very closely to plan events, it is important that
+      the two clubs remain separate entities. Free Software doesn't
+      appeal to every Computer Science student on campus which is why
+      the ACM pushes forward events that will appeal to the majority
+      of LCSEE.
+    </para>
+    
+    <mediaobject>
+      <imageobject>
+	<imagedata fileref="images/fsg_founders.jpg"/>
+      </imageobject>
+      <caption>
+	<para>
+	  The founding officers of WVU FSG. Left to right; Tim
+	  'Shaggy' Bielawa, Bryant Doss, Greg Belknap, and Andrew
+	  Butcher.
+	</para>
+      </caption>
+    </mediaobject>
+  </section>
 </preface>
